@@ -25,7 +25,8 @@ client.on("interactionCreate", async (interaction) => {
 ```
 
 ## Install
-```npm install @koors/discord-interaction-kit
+```npm install @koors/discord-interaction-kit```
 
 ## Discord Demo
 <img width="592" height="604" alt="Image" src="https://github.com/user-attachments/assets/0283fb3f-118b-4df5-ae6d-9b64da588581" />
+
